@@ -1,0 +1,224 @@
+.back{
+    background-image: url(img/img-01.jpg); 
+     background-size: cover;   
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    width: 100%; 
+    left: 0;   
+    margin: 0;
+    height: 80vh;    
+    opacity: 18%;     
+    z-index: -4; 
+   
+}
+h1 {
+color: white;
+text-align: center;
+font-size: 60px;
+margin:75px 175px 240px 221px;
+font-family: 'Oswald', sans-serif;
+font-weight: 400;
+
+}
+
+
+body{
+    background: rgb(58,165,164);
+    background: linear-gradient(180deg, rgba(58,165,164,1) 0%, rgba(122,229,228,1) 100%);}
+   
+h2{
+color: white;
+    font-size: 18px;
+    text-align: center;
+    padding: 7px 0px 0px 0px;
+    margin: -239px 194px 172px 210px ;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+}
+
+.AboutMe{
+    background-color: white;
+    border-radius: 4px;
+    margin:-93px 123px 141px 103px;
+    padding: 90px;
+}
+
+h3{
+    font-size: 25px;
+    padding: 30px ;
+    margin: -70px 1px 16px -32px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    text-align: justify;
+
+}
+.Paragraph{ 
+    float: left;
+    padding: 42px;
+    margin: -70px 1px 16px -43px;
+    width: 300px; height: 200px;
+}
+p{
+    font-size: 17px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: gray;
+
+
+}
+
+.project{
+    background-color: white;
+    border-radius: 4px;
+    margin:-99px 168px 165px 103px;
+    padding: 84px;
+    height: 269px;
+    width :1110px;
+}
+.Language{
+    float: left;
+    padding: -7px 0px 16px 29px ;
+    margin: 2px;
+}
+
+h4{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0;
+}
+.work{
+    background-color: white;
+    border-radius: 4px;
+    margin:-110px 122px 170px 103px;
+    padding: 90px;
+
+
+}
+
+.Education{
+    background-color: white;
+    border-radius: 4px;
+    margin:-98px 202px 205px 104px;
+    padding: 84px;
+    height: 134px;
+    width: 1108px;
+}
+
+.skills{ 
+    float: left;
+    width: 33%;
+}
+
+.lang{
+    background-color: white;
+    border-radius: 4px;
+    margin:-153px 120px 192px 103px;
+    padding: 86px;
+    width: 1106px;
+    height: 78px;
+}
+
+.learn{
+    float: left;
+    width: 33%;
+}
+.SocialNetwork {
+    
+    background-color: white;
+    border-radius: 4px;
+    margin:-153px 120px 192px 103px;
+    padding: 86px;
+    width: 1106px;
+    height: 78px;
+}
+h5{
+    color: black;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+h6{
+display: inline-block;
+color: gray;
+font-size: 17px;
+font-family: 'Lato', sans-serif;
+font-weight: 400;
+margin: 7px;
+}
+
+.ImgIcone{
+    float: left;
+    width: 32px;
+    padding: 17px 14px 0px 0px;
+}
+.ImgJpg{
+    float: left;
+    margin-right: 29px;
+
+}
+.ImgJpg img {
+    width: 340px; height: 180px;
+}
+
+
+.Contact{
+    background-color: white;
+    border-radius: 4px;
+    margin:-153px 120px 192px 103px;
+    padding: 86px;
+    width: 1106px;
+    
+}
+
+.box{
+    width: 100%;
+    height: 60%;
+    margin: 8px;
+    padding: 20px;
+    border-radius: 4px;
+    border-style: hidden;
+    background-color:rgba(238,238,238,255);
+    position: relative;
+    left: -1em;
+
+
+}
+
+.button{
+    border-radius: 70px;
+    background-color: black;
+    color: white;
+    padding: 9px;
+    margin: 9px;
+    width: 10%;
+    position: relative;
+    left: -1em;
+
+
+}
+#copyright{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-bottom: 49px;
+    margin-top: -133px;
+}
+.icones1 ul li{
+    list-style-type: none;
+}
+.icones1 ul li a{
+    text-decoration: none;
+    color: #000;
+}
+.icones1 img{
+    position: relative;
+    top: -27px;
+    right: -5px;
+}
+.icones1{
+    float: left;
+    width: 33%;
+}
